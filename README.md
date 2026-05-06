@@ -7,7 +7,7 @@ It allows students to perform distributed system experiments in a fully browser-
 
 This project focuses on providing an interactive, academic-grade simulation of HDFS architecture, workflows, and fault tolerance mechanisms.
 
----
+
 
 ## Key Features
 
@@ -59,7 +59,7 @@ Includes:
 - Metadata updates
 - Recovery visualization
 
----
+
 
 ## System Architecture
 
@@ -74,7 +74,7 @@ User → Web UI (React) → Backend Logic → Firestore Database
 - Authentication: Firebase Auth
 - Hosting: Firebase Hosting
 
----
+
 
 ## Educational Use Cases
 
@@ -85,7 +85,7 @@ This platform enables students to:
 - Learn fault tolerance mechanisms
 - Perform Big Data experiments interactively
 
----
+
 
 ## Experiments Included
 The system supports multiple Big Data lab experiments, including:
@@ -97,7 +97,7 @@ The system supports multiple Big Data lab experiments, including:
 - Data visualization (Matplotlib, Seaborn)
 - Streaming with Kafka + Spark
 
----
+
 
 ## My Contribution
 
@@ -107,7 +107,7 @@ The system supports multiple Big Data lab experiments, including:
 - Improved user interaction and UI flow
 - Tested system behavior and experiment outputs
 
----
+
 
 ## Development Note
 
@@ -117,8 +117,16 @@ Due to platform restrictions, the source code cannot be shared.
 
 However, the system design, workflow, and implementation logic were actively configured, tested, and refined by me.
 
----
 
-## Screenshots / Demo
 
-(Add your images here)
+## Architecture
+
+![Architecture](./assets/architecture.png)
+
+## Workflow
+
+![Workflow](./assets/workflow.png)
+
+
+
+
